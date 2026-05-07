@@ -9,7 +9,7 @@ describe('算数のテスト', () => {
     const result = 1 + 1;
     
     // Assert（検証）
-    expect(result).toBe(2);
+    expect(result).toBe(3);
   });
 
 });
